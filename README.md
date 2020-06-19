@@ -14,9 +14,9 @@ O objetivo deste estudo é tirar a certificação ''Tensorflow Developer''.
 
 ### Módulo 2 - CNN
 
-- CNN com imagedatagenerator
-- CNN com imagedatagenerator e Image Augmentation (criando exemplos de imagens artificiais)
-- CNN com transferência de aprendizado (c/ rede pré-treinada)
+- CNN com ImageDataGenerator
+- CNN com ImageDataGenerator e Image Augmentation (criando exemplos de imagens artificiais)
+- CNN com Transferência de Aprendizado (c/ rede pré-treinada)
 - CNN exemplo (classificador de linguagem de sinais com 24 classes, usando conhecimentos adquiridos no módulo)
 
 ### Módulo 3 - NLP
