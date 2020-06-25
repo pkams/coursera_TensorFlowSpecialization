@@ -24,5 +24,6 @@ O objetivo deste estudo é tirar a certificação ''Tensorflow Developer''.
 - Processo de Tokenização e Padding de Textos
 - Embedding e uso de layer de Embedding para sentido de textos em redes neurais
 - Usando LSTM, GRU e Conv1D - resolução de redes neurais recorrentes aplicadas a texto
+- Usando técnicas aprendidas neste módulo para gerar textos baseados em dados alimentados em rede neurais recorrentes.
  
 ### Módulo 4 - Time Series (Sequencias e Predições)
