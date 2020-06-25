@@ -20,4 +20,8 @@ O objetivo deste estudo é tirar a certificação ''Tensorflow Developer''.
 - CNN exemplo (classificador de linguagem de sinais com 24 classes, usando conhecimentos adquiridos no módulo)
 
 ### Módulo 3 - NLP
+
+- Processo de Tokenização e Padding de Textos
+- Entendimento de Embedding e uso de layer de Embedding para sentido de textos em redes neurais
+ 
 ### Módulo 4 - Time Series (Sequencias e Predições)
